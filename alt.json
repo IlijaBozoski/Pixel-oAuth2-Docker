@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "tittle":"prvoAlt",
+      "author":"Ilija"
+    },
+    {
+      "tittle":"vtoroAlt",
+      "author":"Ilija"
+    },
+    {
+      "tittle":"tretoAlt",
+      "author":"Ilija"
+    }
+  ],
+  "profile":
+  {
+    "firstName": "Ilija",
+    "lastName": "Bozoski",
+    "email": "ilija@yahoo.com"
+  }
+
+}
